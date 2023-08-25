@@ -14,11 +14,3 @@ Run these commands:
 `node app.js`
 
 or Run by docker compose
-
-test
-
-# added to test the webhook
-#testing again for dev
-#testing again
-any agent
-nice
